@@ -1,1 +1,3 @@
-select  * from customers;
+select *
+from customers
+where active = 1;
